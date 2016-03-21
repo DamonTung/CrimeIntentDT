@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CrimeIntentDT.iml" filepath="$PROJECT_DIR$/CrimeIntentDT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crimeintent/crimeintent.iml" filepath="$PROJECT_DIR$/crimeintent/crimeintent.iml" />
+    </modules>
+  </component>
+</project>
